@@ -1,4 +1,4 @@
-# AutoTableTurf
+# AutoTableTurf-HB
 
 Automate the Tableturf game helping you reach Level 999 and get all sleeves. The script is based on image recognition and bluetooth emulator to auto play Tableturf.
 
@@ -9,6 +9,7 @@ Automate the Tableturf game helping you reach Level 999 and get all sleeves. The
 - Simple web portal.
 - AI that can beat Level 3 NPC.
 - Complete flow control. Once win a NPC 30 times, auto switch to the next one.
+- Usable with sys-hidplus (WIP)
 
 ## Getting Started
 
