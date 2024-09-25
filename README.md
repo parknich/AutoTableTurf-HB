@@ -2,6 +2,9 @@
 
 Automate the Tableturf game helping you reach Level 999 and get all sleeves. The script is based on image recognition and sys-hidplus to auto play Tableturf.
 
+Right now, no work has been done to convert this from being bluetooth based to homebrew based, this project is currently on indefinite hold until I get a new unpatched Switch. Anyone is free to submit PR's however
+
+
 ![image](https://user-images.githubusercontent.com/36651740/194977551-2014cff7-5fe4-4964-aad9-7a467aba9aef.png)
 
 ## Features
